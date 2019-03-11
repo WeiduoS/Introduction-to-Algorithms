@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MergeSort",
+            "request": "launch",
+            "mainClass": "chapter02.MergeSort",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - InsertionSort",
             "request": "launch",
             "mainClass": "chapter02.InsertionSort",
