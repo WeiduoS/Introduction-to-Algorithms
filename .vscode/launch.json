@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MaxSubArraySum",
+            "request": "launch",
+            "mainClass": "chapter04.MaxSubArraySum",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InversionPairs",
+            "request": "launch",
+            "mainClass": "chapter02.InversionPairs",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HornerPolynomial",
+            "request": "launch",
+            "mainClass": "chapter02.HornerPolynomial",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BubbleSort",
+            "request": "launch",
+            "mainClass": "chapter02.BubbleSort",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MergeSort",
+            "request": "launch",
+            "mainClass": "chapter02.MergeSort",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - InsertionSort",
             "request": "launch",
             "mainClass": "chapter02.InsertionSort",
