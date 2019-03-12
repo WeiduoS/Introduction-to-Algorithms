@@ -1,5 +1,8 @@
 # Introduction-to-Algorithms
-One Paragraph of project description goes here
+[![image](https://img.shields.io/github/contributors/WeiduoS/Introduction-to-Algorithms.svg)](https://github.com/WeiduoS/Introduction-to-Algorithms/graphs/contributors)
+[![image](https://img.shields.io/github/commit-activity/m/WeiduoS/Introduction-to-Algorithms.svg)](https://github.com/WeiduoS/Introduction-to-Algorithms/commits/master)
+
+One Paragraph of project description goes here 
 
 ## Getting Started
 
