@@ -17,3 +17,4 @@ Introduction to Algroithms(3rd edition) algorithm implementations
 ## [Chapter 04](https://github.com/WeiduoS/Introduction-to-Algorithms/tree/master/src/main/java/chapter04)
 
 -   4.1 Maxium Subarray
+-   4.2 Matrix Multiplication
