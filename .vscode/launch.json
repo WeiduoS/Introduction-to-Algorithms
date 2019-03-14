@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - MatrixMultiplication",
+            "request": "launch",
+            "mainClass": "chapter04.MatrixMultiplication",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - SelectionSort",
             "request": "launch",
             "mainClass": "chapter02.SelectionSort",
