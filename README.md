@@ -9,12 +9,14 @@ Introduction to Algroithms(3rd edition) algorithm implementations
 
 ## [Chapter 02](https://github.com/WeiduoS/Introduction-to-Algorithms/tree/master/src/main/java/chapter02)
 
-* 2.1 Insertion Sort
-* 2.2-2 Selection Sort
-* 2.3.1 Merge Sort
-* Problems 2-3 Horner's Rule
-* Problems 2-4 Inversions Pairs
+-   2.1 Insertion Sort
+-   2.2-2 Selection Sort
+-   2.3.1 Merge Sort
+-   Problems 2-3 Horner's Rule
+-   Problems 2-4 Inversions Pairs
 
 ## [Chapter 04](https://github.com/WeiduoS/Introduction-to-Algorithms/tree/master/src/main/java/chapter04)
 
-* 4.1 Maxium Subarray
+-   4.1 Maxium Subarray
+-   4.2 Matrix Multiplication
+-   to be continued
