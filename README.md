@@ -23,3 +23,4 @@ Introduction to Algroithms(3rd edition) algorithm implementations
 ## [Chapter 05](https://github.com/WeiduoS/Introduction-to-Algorithms/tree/master/src/main/java/chapter05)
 
 -   5.3 Permutation Sort
+-   5.3 Reservoir Sampling

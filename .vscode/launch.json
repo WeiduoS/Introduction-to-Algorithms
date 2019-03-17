@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ReservoirSampling",
+            "request": "launch",
+            "mainClass": "chapter05.ReservoirSampling",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - PermutationSort",
             "request": "launch",
             "mainClass": "chapter05.PermutationSort",
