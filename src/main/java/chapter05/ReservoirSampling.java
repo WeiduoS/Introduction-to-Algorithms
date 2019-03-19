@@ -10,7 +10,7 @@ public class ReservoirSampling {
             res[i] = arr[i];
         for (; i < arr.length; i++) {
             int j = (int) Math.random() * (i + 1);
-            if (j < k) {
+            if (j <= k) {
                 res[j] = arr[i];
             }
         }
