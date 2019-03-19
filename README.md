@@ -28,3 +28,4 @@ Introduction to Algroithms(3rd edition) algorithm implementations
 ## [Chapter 06](https://github.com/WeiduoS/Introduction-to-Algorithms/tree/ws1255/src/main/java/chapter06)
 
 -   6.4 Heap Sort
+-   6.5 Priority Queue

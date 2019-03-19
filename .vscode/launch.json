@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - BinaryHeap",
+            "request": "launch",
+            "mainClass": "chapter06.BinaryHeap",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - P3PriorityQueueTest",
+            "request": "launch",
+            "mainClass": "chapter06.P3PriorityQueueTest",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - HeapSort",
             "request": "launch",
             "mainClass": "chapter06.HeapSort",
