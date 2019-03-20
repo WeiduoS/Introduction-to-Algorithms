@@ -29,3 +29,8 @@ Introduction to Algroithms(3rd edition) algorithm implementations
 
 -   6.4 Heap Sort
 -   6.5 Priority Queue
+
+## [Chapter 06](https://github.com/WeiduoS/Introduction-to-Algorithms/tree/ws1255/src/main/java/chapter07)
+
+-   7.1 Quick Sort
+-   7.1 Quick Select
