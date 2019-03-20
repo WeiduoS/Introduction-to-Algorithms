@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - QuickSelect",
+            "request": "launch",
+            "mainClass": "chapter07.QuickSelect",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QuickSort",
+            "request": "launch",
+            "mainClass": "chapter07.QuickSort",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - BinaryHeap",
             "request": "launch",
             "mainClass": "chapter06.BinaryHeap",
