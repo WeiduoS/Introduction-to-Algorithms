@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CountingSort",
+            "request": "launch",
+            "mainClass": "chapter08.CountingSort",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - QuickSelect",
             "request": "launch",
             "mainClass": "chapter07.QuickSelect",
