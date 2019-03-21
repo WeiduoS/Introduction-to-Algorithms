@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - RadixSort",
+            "request": "launch",
+            "mainClass": "chapter08.RadixSort",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - CountingSort",
             "request": "launch",
             "mainClass": "chapter08.CountingSort",
