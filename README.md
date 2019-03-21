@@ -34,3 +34,7 @@ Introduction to Algroithms(3rd edition) algorithm implementations
 
 -   7.1 Quick Sort
 -   7.1 Quick Select
+
+## [Chapter 08](https://github.com/WeiduoS/Introduction-to-Algorithms/tree/ws1255/src/main/java/chapter08)
+
+-   8.1 Counting Sort
