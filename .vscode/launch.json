@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - QueueLinkedList",
+            "request": "launch",
+            "mainClass": "chapter10.QueueLinkedList",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QueueArray",
+            "request": "launch",
+            "mainClass": "chapter10.QueueArray",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Stack",
             "request": "launch",
             "mainClass": "chapter10.Stack",
