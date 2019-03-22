@@ -44,3 +44,4 @@ Introduction to Algroithms(3rd edition) algorithm implementations
 ## [Chapter 10](https://github.com/WeiduoS/Introduction-to-Algorithms/tree/ws1255/src/main/java/chapter10)
 
 -   10.1 Stack
+-   10.2 Queue
