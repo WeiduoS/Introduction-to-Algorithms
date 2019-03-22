@@ -40,3 +40,7 @@ Introduction to Algroithms(3rd edition) algorithm implementations
 -   8.2 Counting Sort
 -   8.3 Radix Sort
 -   8.4 Bucket Sort
+
+## [Chapter 10](https://github.com/WeiduoS/Introduction-to-Algorithms/tree/ws1255/src/main/java/chapter10)
+
+-   10.1 Stack
