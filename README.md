@@ -45,3 +45,7 @@ Introduction to Algroithms(3rd edition) algorithm implementations
 
 -   10.1 Stack / Queue
 -   10.2 Linked List
+
+## [Chapter 11](https://github.com/WeiduoS/Introduction-to-Algorithms/tree/ws1255/src/main/java/chapter11)
+
+-   11.2 Hash Map
