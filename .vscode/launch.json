@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - HashMap",
+            "request": "launch",
+            "mainClass": "chapter11.HashMap",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - LinkedList",
             "request": "launch",
             "mainClass": "chapter10.LinkedList",
