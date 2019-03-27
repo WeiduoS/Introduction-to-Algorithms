@@ -49,3 +49,7 @@ Introduction to Algroithms(3rd edition) algorithm implementations
 ## [Chapter 11](https://github.com/WeiduoS/Introduction-to-Algorithms/tree/ws1255/src/main/java/chapter11)
 
 -   11.2 Hash Map
+
+## [Chapter 12](https://github.com/WeiduoS/Introduction-to-Algorithms/tree/ws1255/src/main/java/chapter12)
+
+-   12.1 Binary Tree Traverse
