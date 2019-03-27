@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - PostOrder",
+            "request": "launch",
+            "mainClass": "chapter12.BST_Traverse.PostOrder",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PreOrder",
+            "request": "launch",
+            "mainClass": "chapter12.BST_Traverse.PreOrder",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LevelOrder",
+            "request": "launch",
+            "mainClass": "chapter12.BST_Traverse.LevelOrder",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InOrder",
+            "request": "launch",
+            "mainClass": "chapter12.BST_Traverse.InOrder",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - HashMap",
             "request": "launch",
             "mainClass": "chapter11.HashMap",
