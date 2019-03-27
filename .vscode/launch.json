@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - InOrderSuccessor",
+            "request": "launch",
+            "mainClass": "chapter12.BST_Successor.InOrderSuccessor",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - InOrderPredecessor",
+            "request": "launch",
+            "mainClass": "chapter12.BST_Predecessor.InOrderPredecessor",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - PostOrder",
             "request": "launch",
             "mainClass": "chapter12.BST_Traverse.PostOrder",
