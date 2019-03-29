@@ -54,3 +54,4 @@ Introduction to Algroithms(3rd edition) algorithm implementations
 
 -   12.1 Binary Tree Traverse
 -   12.2 Predecessor / Successor
+-   12.3 Binary(AVL) Tree Insert / Delete

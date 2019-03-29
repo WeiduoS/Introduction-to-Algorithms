@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - AVLTreeDelete",
+            "request": "launch",
+            "mainClass": "chapter12.AVL_Delete.AVLTreeDelete",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AVLTreeInsert",
+            "request": "launch",
+            "mainClass": "chapter12.AVL_Insert.AVLTreeInsert",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinarySearchTreeDelete",
+            "request": "launch",
+            "mainClass": "chapter12.BST_Delete.BinarySearchTreeDelete",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinarySearchTreeInsert",
+            "request": "launch",
+            "mainClass": "chapter12.BST_Insert.BinarySearchTreeInsert",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - InOrderSuccessor",
             "request": "launch",
             "mainClass": "chapter12.BST_Successor.InOrderSuccessor",
