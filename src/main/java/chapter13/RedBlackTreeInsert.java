@@ -1,7 +1,7 @@
 package chapter13;
 
 // https://www.cs.usfca.edu/~galles/visualization/RedBlack.html
-public class RedBlactInsert {
+public class RedBlackTreeInsert {
     private final int RED = 0;
     private final int BLACK = 1;
 
@@ -143,7 +143,7 @@ public class RedBlactInsert {
     }
 
     public static void main(String[] args) {
-        RedBlactInsert tree = new RedBlactInsert();
+        RedBlackTreeInsert tree = new RedBlackTreeInsert();
         tree.insert(tree.new Node(1));
         tree.insert(tree.new Node(2));
         tree.insert(tree.new Node(3));
