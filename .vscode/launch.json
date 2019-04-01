@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - RedBlackTreeDelete",
+            "request": "launch",
+            "mainClass": "chapter13.RedBlackTreeDelete",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - RedBlactInsert",
             "request": "launch",
             "mainClass": "chapter13.RedBlactInsert",
