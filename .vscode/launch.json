@@ -2,6 +2,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - BinaryIndexTreeReverse",
+            "request": "launch",
+            "mainClass": "chapter14.BinaryIndexTreeReverse",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinaryIndexTree",
+            "request": "launch",
+            "mainClass": "chapter14.BinaryIndexTree",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SegmentTreeLazyPropagation",
+            "request": "launch",
+            "mainClass": "chapter14.SegmentTreeLazyPropagation",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SegmentTree",
+            "request": "launch",
+            "mainClass": "chapter14.SegmentTree",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - IntervalTree",
+            "request": "launch",
+            "mainClass": "chapter14.IntervalTree",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - RedBlackTreeDelete",
             "request": "launch",
             "mainClass": "chapter13.RedBlackTreeDelete",
