@@ -64,3 +64,9 @@ Introduction to Algroithms(3rd edition) algorithm implementations
 ## [Chapter 14](https://github.com/WeiduoS/Introduction-to-Algorithms/tree/ws1255/src/main/java/chapter14)
 
 -   14.3 Interval Tree
+
+## [Chapter 32](https://github.com/WeiduoS/Introduction-to-Algorithms/tree/ws1255/src/main/java/chapter32)
+
+-   32.2 Rabin-Karp algorithm
+-   32.3 Finite Automata algorithm
+-   32.4 Knuth-Morris-Pratt algorithm
