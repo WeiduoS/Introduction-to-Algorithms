@@ -49,6 +49,7 @@ public class RabinKarp {
 
     private static int recalculateHash(char[] text, int deleteIndex, int addIndex, int oldHash, int h) {
         int newHash = ((oldHash - text[deleteIndex] * h) * d + text[addIndex]) % prime;
+        if(newHash < 0) newHash += prime;
         return newHash;
     }
 
