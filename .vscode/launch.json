@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - BellmanFordAlgorithm",
+            "request": "launch",
+            "mainClass": "chapter24.BellmanFordAlgorithm",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DijkstraAlgorithm",
+            "request": "launch",
+            "mainClass": "chapter24.DijkstraAlgorithm",
+            "projectName": "Introduction-to-Algorithms"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - BinaryIndexTreeReverse",
             "request": "launch",
             "mainClass": "chapter14.BinaryIndexTreeReverse",

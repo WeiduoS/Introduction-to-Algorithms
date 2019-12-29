@@ -6,8 +6,6 @@ package chapter32;
  */
 public class FiniteAutomata {
 
-
-
     static void search(char[] text, char[] pattern) {
         int n = text.length, m = pattern.length;
 

@@ -6,7 +6,7 @@ package chapter32;
  */
 public class RabinKarp {
     private final static int prime = 101; // A prime number
-    public final static int d = 256; // d is the number of characters in the input alphabet
+    private final static int d = 256; // d is the number of characters in the input alphabet
 
     public static int patternSearch(char[] text, char[] pattern) {
         int m = pattern.length;

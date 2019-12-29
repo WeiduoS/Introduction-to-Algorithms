@@ -55,7 +55,7 @@ public class KnuthMorrisPratt {
 
     public static void main(String[] args) {
         String str = "aabaaabaaac";
-        String subString = 	"aabaaac";
+        String subString = 	"aabcabcab";
         boolean result = KMP(str.toCharArray(), subString.toCharArray());
         System.out.print(result);
     }
